@@ -1,0 +1,68 @@
+body{
+    background-image: url('back\ image3');
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size: 100% 100%;
+}
+
+div{
+    border-radius: 20px;
+    color: black;
+    margin: 5px;
+}
+span{
+    color: red;
+    font-size: 310%;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 10px;
+    font-weight: bold;
+    
+}
+.One{
+    margin-left: 1100px;
+    background-color: red;
+    padding: 10px;
+    color:white;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+
+    
+}
+button:hover{
+    color:black;
+}
+.center{
+    margin: 110px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+p{
+    color: white;
+    padding-top: 0px;
+    font-size: 21px;
+}
+.Two{
+    padding: 12px;
+    width: 410px;
+    text-align: left;
+    margin-right:0%;
+}
+.Three{
+    font-size: 15px;
+    background-color: red;
+    padding: 12px;
+    width: 180px;
+    margin-left:0%;
+    text-align: center;
+}
+input::placeholder{
+    color: white;
+    font-weight: bold;
+}
+.watch{
+    font-size: medium;
+}
